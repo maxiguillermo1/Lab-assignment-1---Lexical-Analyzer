@@ -150,6 +150,5 @@ Next token is: -1, Next lexeme is EOF
 
 6. **Execute Program:** Your program will execute, and any output it produces will be displayed in the terminal.
 
-You have successfully compiled and run your C program `lab1.c` on the terminal.
-```
+
 
