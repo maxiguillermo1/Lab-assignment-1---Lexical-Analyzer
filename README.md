@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/WLPEHXF.gif" alt="MLH-banner" width="100%" height="200px">
-
 # Lexical-Analizer: Understand how to create your programming Language
 
 # Concept Introduction 💻
