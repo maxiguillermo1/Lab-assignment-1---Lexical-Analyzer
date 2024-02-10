@@ -153,17 +153,29 @@ Next token is: -1, Next lexeme is EOF
 # Desired Output 
 
 Next token is: 25, Next lexeme is (
+
 Next token is: 11, Next lexeme is sum
+
 Next token is: 21, Next lexeme is +
+
 Next token is: 10, Next lexeme is 47
+
 Next token is: 26, Next lexeme is )
+
 Next token is: 24, Next lexeme is /
+
 Next token is: 11, Next lexeme is total
+
 Next token is: 11, Next lexeme is oldsum
+
 Next token is: 22, Next lexeme is -
+
 Next token is: 11, Next lexeme is value
+
 Next token is: 24, Next lexeme is /
+
 Next token is: 10, Next lexeme is 100
+
 Next token is: -1, Next lexeme is EOF
 
 
