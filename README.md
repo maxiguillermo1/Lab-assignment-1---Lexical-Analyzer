@@ -126,3 +126,30 @@ Next token is: -1, Next lexeme is EOF
 
 # How to Compile and Run the program
 
+```
+### Compiling and Running a C Program in Terminal
+
+1. **Open Terminal:** Open your terminal application.
+
+2. **Navigate to Directory:** Use the `cd` command to navigate to the directory where your `lab1.c` file is located. For example:
+   ```bash
+   cd path/to/your/directory
+   ```
+
+3. **Compile Program:** Compile your program using the `gcc` command followed by the name of your C file. Optionally, you can specify the name of the output executable using the `-o` flag. For example:
+   ```bash
+   gcc lab1.c -o lab1
+   ```
+
+4. **Check for Errors:** If there are no errors in your code, this command will generate an executable file named `lab1` (or whatever name you specified). If there are errors, they will be displayed in the terminal.
+
+5. **Run Program:** To run your compiled program, type the name of the executable file preceded by `./` (dot slash) and press Enter. For example:
+   ```bash
+   ./lab1
+   ```
+
+6. **Execute Program:** Your program will execute, and any output it produces will be displayed in the terminal.
+
+You have successfully compiled and run your C program `lab1.c` on the terminal.
+```
+
